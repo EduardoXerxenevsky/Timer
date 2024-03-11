@@ -10,7 +10,7 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<VBox alignment="CENTER" prefHeight="201.0" prefWidth="430.0" spacing="20.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="br.com.joaocarloslima.Controller">
+<VBox alignment="CENTER" prefHeight="201.0" prefWidth="430.0" spacing="20.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="br.com.eduardoxerxenevsy.Controller">
    <children>
       <ToolBar minWidth="-Infinity" prefHeight="53.0" prefWidth="304.0" VBox.vgrow="ALWAYS">
         <items>
